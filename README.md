@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![blackdiz Stats](https://github-readme-stats.vercel.app/api?username=blackdiz)
+![blackdiz Stats](https://github-readme-stats.vercel.app/api?username=blackdiz&theme=flag-india)
 <!--
 **blackdiz/blackdiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
