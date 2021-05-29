@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - [About](https://blackdiz.github.io/about/)
 - [LeetCode 1. Two Sum](https://blackdiz.github.io/blog/leetcode-1/)
 <!-- BLOG-POST-LIST:END -->
+Blog: [Blackdiz's Garage](https://blackdiz.github.io/)
