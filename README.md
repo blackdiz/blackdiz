@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode 344](https://blackdiz.github.io/blog/leetcode-344/)
+- [Leetcode 55 . Jump Game](https://blackdiz.github.io/blog/leetcode-55/)
+- [Leetcode 344. Reverse String](https://blackdiz.github.io/blog/leetcode-344/)
 - [從 Server 端輸出下載的檔名含有中文會變成亂碼問題](https://blackdiz.github.io/blog/garbled-file-name/)
 - [About](https://blackdiz.github.io/about/)
 - [LeetCode 1. Two Sum](https://blackdiz.github.io/blog/leetcode-1/)
