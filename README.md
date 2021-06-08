@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode 104. Maximum Depth of Binary Tree](https://blackdiz.github.io/blog/leetcode-104/)
+- [LeetCode 104. Maximum Depth of Binary Tree](https://blackdiz.github.io/blog/leetcode-104/)
 - [H2 Database and SQL Alias Column Name](https://blackdiz.github.io/blog/sql-and-h2-db/)
 - [LeetCode 55. Jump Game](https://blackdiz.github.io/blog/leetcode-55/)
 - [LeetCode 344. Reverse String](https://blackdiz.github.io/blog/leetcode-344/)
