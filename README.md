@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java: Compartion Violation 問題小記](https://blackdiz.github.io/blog/compartion-violation/)
+- [Java: Comparison method violates its general contract!](https://blackdiz.github.io/blog/comparison-violation/)
 - [Use FreeMarker Template to Output JSON](https://blackdiz.github.io/blog/freemarker-json/)
 - [Leetcode 136. Single Number](https://blackdiz.github.io/blog/leetcode-136/)
 - [LeetCode 104. Maximum Depth of Binary Tree](https://blackdiz.github.io/blog/leetcode-104/)
