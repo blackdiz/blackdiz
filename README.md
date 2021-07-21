@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitwise Operators](https://blackdiz.github.io/blog/bitwise-operators/)
 - [Java: Comparison method violates its general contract!](https://blackdiz.github.io/blog/comparison-violation/)
 - [Use FreeMarker Template to Output JSON](https://blackdiz.github.io/blog/freemarker-json/)
 - [Leetcode 136. Single Number](https://blackdiz.github.io/blog/leetcode-136/)
 - [LeetCode 104. Maximum Depth of Binary Tree](https://blackdiz.github.io/blog/leetcode-104/)
-- [H2 Database and SQL Alias Column Name](https://blackdiz.github.io/blog/sql-and-h2-db/)
 <!-- BLOG-POST-LIST:END -->
 Blog: [Blackdiz's Garage](https://blackdiz.github.io/)
