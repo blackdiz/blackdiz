@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2021 Day1](https://blackdiz.github.io/blog/advent-of-code-2021-day1/)
+- [Advent of Code 2021 Day 1](https://blackdiz.github.io/blog/advent-of-code-2021-day1/)
 - [GCP Pub/Sub Local Emulator](https://blackdiz.github.io/blog/pubsub-local-emulator/)
 - [Higher Order Function 小記](https://blackdiz.github.io/blog/higher-order-function/)
 - [Linux 2、1、&amp; 和 &gt;](https://blackdiz.github.io/blog/linux-redirection-operators/)
